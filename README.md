@@ -24,7 +24,7 @@ An exploratory data analysis project focused on analyzing Ola ride data to ident
 
 **Tools:** Excel / SQL / Power BI
 
-[View Project](YOUR_OLA_PROJECT_LINK)
+[View Project](https://github.com/snehanainani77-hub/OLA-Data-Analytics-Project)
 
 ---
 
@@ -34,7 +34,7 @@ A data analysis project focused on analyzing revenue performance and identifying
 
 **Tools:** Excel / Power BI
 
-[View Project](YOUR_REVENUE_PROJECT_LINK)
+[View Project](https://github.com/snehanainani77-hub/Revenew_Analysis)
 
 ---
 
@@ -44,7 +44,7 @@ An Excel-based sales analysis project analyzing sales trends, food type contribu
 
 **Tools:** Excel
 
-[View Project](YOUR_SWIGGY_PROJECT_LINK)
+[View Project](https://github.com/snehanainani77-hub/Swiggi_Sales_Analysis)
 
 ---
 
