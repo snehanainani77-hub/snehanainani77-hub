@@ -19,10 +19,9 @@ I am an aspiring Data Analyst with an interest in transforming data into meaning
 ## Featured Projects
 
 ### 1. Ola Data Analytics Project
+An end-to-end data analytics project focused on analyzing Ola ride-booking data to identify booking trends, cancellations, customer and driver behavior, and overall ride performance.
 
-An exploratory data analysis project focused on analyzing Ola ride data to identify booking trends, cancellations, ride patterns, and other key business insights.
-
-**Tools:** Excel / SQL / Power BI
+**Tools:** SQL | Excel | Power BI
 
 [View Project](https://github.com/snehanainani77-hub/OLA-Data-Analytics-Project)
 
@@ -30,9 +29,9 @@ An exploratory data analysis project focused on analyzing Ola ride data to ident
 
 ### 2. Revenue Analysis
 
-A data analysis project focused on analyzing revenue performance and identifying important trends and business insights using dashboards and visualizations.
+A data analytics project focused on analyzing BikeStores sales and revenue performance across years, months, states, stores, brands, product categories, customers, and sales representatives.
 
-**Tools:** Excel / Power BI
+**Tools:** SQL | Excel | Tableau
 
 [View Project](https://github.com/snehanainani77-hub/Revenew_Analysis)
 
@@ -60,8 +59,6 @@ An Excel-based sales analysis project analyzing sales trends, food type contribu
 ## Currently Learning
 
 - Advanced SQL
-- Advanced Excel
-- Power BI
 - Python for Data Analysis
 
 ## Contact
